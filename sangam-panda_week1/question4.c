@@ -6,8 +6,8 @@ int main(){
 	printf("Enter a and b values \n");
 	scanf("%f%f \n" ,&a ,&b);
 	printf("Enter operator \n");
-	printf("1 for addiction \n");
-	printf("2 for substraction \n");
+	printf("1 for addition \n");
+	printf("2 for subtraction \n");
 	printf("3 for multiplication \n");
 	printf("4 for division \n");
 	scanf("%d" ,&o);
