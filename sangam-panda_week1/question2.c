@@ -8,11 +8,11 @@ int main()
    	scanf("%d %d" , &num1 , &num2 );
    	
    	if(num1>num2)
-   	  printf("%d is maximum." ,num1);
+   	   printf("%d is maximum." ,num1);
    	else
 	   printf("%d is maximum." ,num2);
 	   
-	return 0;     
+	return 0;
 	} 
 
 
